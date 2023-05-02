@@ -1,0 +1,18 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+img {
+  width:90px;
+  padding: 5px;
+}
+
+a {
+  font-size: 15px;
+  color: #01478C
+}
+
+a:hover {
+  color: #000
+}
+
